@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740046157,
+	"version": 1740046730,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,12 @@
 		"media/tap.ogg",
 		"media/coin collect.m4a",
 		"media/coin collect.ogg",
+		"media/jump.m4a",
+		"media/jump.ogg",
+		"media/rugs and coins - cry.m4a",
+		"media/rugs and coins - cry.ogg",
+		"media/rugs and coins bgm.m4a",
+		"media/rugs and coins bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
